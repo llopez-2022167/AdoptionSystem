@@ -8,7 +8,7 @@ import morgan from 'morgan'
 import helmet from 'helmet'
 import cors from 'cors'
 import { config } from "dotenv"
-import userRoutes from '../src/user/user.routes.js'
+import userRoutes from '../src/user/user.routers.js'
 
 
 //Configuraciones
